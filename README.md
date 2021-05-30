@@ -37,6 +37,13 @@ This is a project on Flutter using ddd, bloc pattern
 3. Which is numbered
       - which is numbered
       * some other text
+```
+javascript
+
+```
+
+```javascript2```
+
 
 ## Events (It helps to log all the memorable life events)
 ## reminder (It helps to remind, It's kind of alarm)
