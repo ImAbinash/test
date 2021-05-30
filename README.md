@@ -55,10 +55,8 @@ git hub markups [https://github.com/tchapi/markdown-cheatsheet/blob/master/READM
 
 [git hub markups](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md "Named link title") and http://www.google.fr/ or <http://example.com/>
 
-```Create flutter app
-- flutter create my_app
-```
-- Create flutter app
+
+1. Create flutter app
 ```
 flutter create my_app
 ```
