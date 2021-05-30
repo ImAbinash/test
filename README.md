@@ -16,6 +16,19 @@ This is a project on Flutter using ddd, bloc pattern
    </ol>
 </details>
 
+<details>
+    <summary>Income</summary>
+    <ol>
+        <li>Add new income to the db</li>
+        <li>show list of incomes</li>
+    </ol>
+    <summary>Expenses</summary>
+    <ol>
+        <li>Add new expense to the db</li>
+        <li>show list of expenses</li>
+    </ol>
+</details>
+
 1. A numbered list
       * asdfas
 2. A nested numbered list
