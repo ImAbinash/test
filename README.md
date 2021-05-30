@@ -31,3 +31,4 @@ This is a project on Flutter using ddd, bloc pattern
 
 git hub markups [https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md]
 
+[git hub markups](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md "Named link title") and http://www.google.fr/ or <http://example.com/>
