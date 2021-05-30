@@ -8,26 +8,18 @@ This is a project on Flutter using ddd, bloc pattern
 
 <details>
    <summary>Income</summary>
-   <ul>
+   <ol>
       <li>show list of incomes</li>
       <li>Add new income to the db</li>
       <li>Modify existing income</li>
       <li>Add income category</li>
-   </ul>
+   </ol>
 </details>
-<details>
-    <summary>Income</summary>
-      1. A numbered list
-          * asdfas
-      3. A nested numbered list
-      4. Which is numbered
-          - which is numbered
-          * some other text
-</details>
- 1. A numbered list
+
+1. A numbered list
       * asdfas
-3. A nested numbered list
-4. Which is numbered
+2. A nested numbered list
+3. Which is numbered
       - which is numbered
       * some other text
 
