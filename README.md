@@ -6,11 +6,11 @@ This is a project on Flutter using ddd, bloc pattern
 # Features
 ## Cashflow (One can log their all the incomes and expenses)
 1. A numbered list
-    - asdfas
+    * asdfas
 3. A nested numbered list
 4. Which is numbered
-  * which is numbered
-  * some other text
+    - which is numbered
+    * some other text
 
 ## Events (It helps to log all the memorable life events)
 ## reminder (It helps to remind, It's kind of alarm)
