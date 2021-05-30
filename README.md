@@ -22,6 +22,8 @@ This is a project on Flutter using ddd, bloc pattern
         <li>Add new income to the db</li>
         <li>show list of incomes</li>
     </ol>
+</details>
+<details>
     <summary>Expenses</summary>
     <ol>
         <li>Add new expense to the db</li>
