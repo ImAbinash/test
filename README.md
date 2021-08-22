@@ -66,25 +66,7 @@ flutter create my_app
 ```
 
 
-<details>
-  <table>
-     <tr>
-        <th>Firstname</th>
-        <th>Lastname</th>
-        <th>Age</th>
-     </tr>
-     <tr>
-       <td>Jill</td>
-       <td>Smith</td>
-       <td>50</td>
-     </tr>
-     <tr>
-       <td>Eve</td>
-       <td>Jackson</td>
-       <td>94</td>
-     </tr>
-  </table>
-</details>
+ 
 
 
 # TaskmanagerWebapp
@@ -96,4 +78,28 @@ Task Manager web app
     2. npm install jquery
     3. npm i font-awesome
     4. npm i @popperjs/core
+
+
+
+
+
+<table>
+   <tr>
+     <th>Firstname</th>
+     <th>Lastname</th>
+     <th>Age</th>
+   </tr>
+   <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+   </tr>
+   <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+   </tr>
+</table>
+
+
 
