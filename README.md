@@ -106,7 +106,7 @@ Task Manager web app
 ## Useful URL
 <details>
   <summary>Links</summary>
-  <p>[Springboot Exception Handling](https://reflectoring.io/spring-boot-exception-handling/ "Springboot exception handling")</p>
+  [Springboot Exception Handling](https://reflectoring.io/spring-boot-exception-handling/ "Springboot exception handling")
 </details>
 
 
